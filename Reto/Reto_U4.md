@@ -36,7 +36,3 @@ y otra lista qure almacene los valores que estén por debajo del rango seguro, y
 el número de alertas que hubo, y, al final imprima todas los valores de las listas.
 
 
-
-- **Idea 2:** Se plantea añadir una lista que almacene todos los valores que lance la simulación y dos diccioarios
-uno que almacene los contadores y otro que almacene todos los valores en tiempo, RPM altos, RPM bajos, el rango seguro y el estado, y que al final las imprima en una tabla resumen.
-
